@@ -1,0 +1,12 @@
+__pycache__
+env/
+venv/
+
+.idea/
+
+/old/
+/ini_configs/
+
+geckodriver.log
+
+/allure-results/
